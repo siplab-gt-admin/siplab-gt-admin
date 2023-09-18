@@ -1,6 +1,6 @@
 ### Hello there! 👇👀
 
-# ✨ Please see the [SIPLab organization](https://github.com/Sensory-Information-Processing-Lab) rather than this account for our software. ✨
+# ✨ Please see the [SIPLab organization](https://github.com/siplab-gt) rather than this account for our software. ✨
 
 ☝️👀
 
